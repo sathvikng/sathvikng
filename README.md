@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4655&height=220&section=header&text=Sathvik%20N%20G&fontSize=68&fontColor=ece8e1&animation=fadeIn&fontAlignY=40&desc=Senior%20Full%20Stack%20AI%20Engineer&descAlignY=62&descColor=ffffff&descSize=17" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=720&lines=Building+production+AI+systems+that+actually+scale.;Nokia+Bell+Labs+%E2%80%94+Accenture+%2F+Microsoft+AI+%E2%80%94+Vaia;Springer+Nature+%C2%B7+IEEE+Researcher+%C2%B7+NASA+Award+Winner;Finance+%C2%B7+Sustainability+%C2%B7+Full+Stack+AI)](https://x.com/sathvik182)
-
 <br/>
 
 [![Twitter](https://img.shields.io/badge/X-@sathvik182-ff4655?style=flat-square&logo=x&logoColor=white)](https://x.com/sathvik182)
@@ -18,15 +16,11 @@
 
 ## `> whoami`
 
-<img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=sathvikng&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=c9d1d9&ring_color=ff4655&count_private=true" />
-
 Growing up in Bangalore, my weekends were spent at **SP Road** — the city's electronics market — learning to build PCs from scratch with the vendors. That hands-on curiosity with hardware pulled me into software. I discovered I could make the games I played, built my first 2D games in Lua, and never stopped building.
 
 Today I'm a **founding engineer at Vaia**, owning the full AI stack across finance and sustainability. Before that, two years at **Accenture** embedded with **Microsoft AI Research** and **Avanade**, shipping production AI for Fortune 500 clients. Before that, **Nokia Bell Labs** during undergrad.
 
 The instinct is always the same: see the inefficiency, understand the system, build the better version.
-
-<br clear="right"/>
 
 ---
 
