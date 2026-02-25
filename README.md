@@ -109,10 +109,6 @@ Sustainability teams were manually compiling emissions data across dozens of pro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sathvikng&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=c9d1d9&ring_color=ff4655&count_private=true" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvikng&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4655&text_color=c9d1d9&langs_count=6" />
-
 <br/>
 
 <img width="62%" src="https://streak-stats.demolab.com?user=sathvikng&theme=dark&hide_border=true&background=0d1117&ring=ff4655&fire=ff4655&currStreakLabel=ff4655" />
